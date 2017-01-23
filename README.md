@@ -1,2 +1,2 @@
 # fizzbuzz
-Fizzbuzz en C
+Fizzbuzz en bash
